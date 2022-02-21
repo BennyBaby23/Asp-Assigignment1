@@ -1,7 +1,7 @@
 # Asp-Assigignment1
 
 Name : Satveer Kaur         Name : Benny Baby
-Student Id :                Student Id : 200469127
+Student Id : 200476092               Student Id : 200469127
  
 
 Theme : Cafeteria 
@@ -10,6 +10,7 @@ Theme : Cafeteria
 
 * How OOP principle (Abstraction/Polymorphism/Inheritence/Encapsulation) : 
 
+The basic principles of OOP involves Abstraction, Encapsulation, Inheritance, and Polymorphism. There are also objects and classes. Together, they stand as the working principle of any object-oriented programming language. As we used getter and setter for fields in table to access the private encapsulated data. and Inheritence is considered to to inherit object from parent class. As abstraction is used to show the essential attribute of cafeteria such as order id, location and polymorphism is considered as we can access objects of different types through the same interface.
 
 
 #Design View screenshots of tables :
