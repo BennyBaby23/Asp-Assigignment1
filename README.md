@@ -12,5 +12,16 @@ Theme : Cafeteria
 
 
 
+#Design View screenshots of tables :
 
+![Screenshot (293)](https://user-images.githubusercontent.com/80648724/154875500-f41a9a25-1752-4295-a1e7-4100dc4c3b1a.png)
+![Screenshot (294)](https://user-images.githubusercontent.com/80648724/154875518-9cb82ef8-b3dd-44f1-802a-1465d63dcd72.png)
+![Screenshot (295)](https://user-images.githubusercontent.com/80648724/154875533-4e3fb68b-6f89-4515-b386-5b20b671dabd.png)
+
+
+#Screenshot of webpages :
+
+![Screenshot (290)](https://user-images.githubusercontent.com/80648724/154875557-fbad11e3-0521-4a4a-b4f1-9371312a0d2e.png)
+![Screenshot (291)](https://user-images.githubusercontent.com/80648724/154875567-ab80d6f6-f2b2-4802-9161-bbc166aba126.png)
+![Screenshot (292)](https://user-images.githubusercontent.com/80648724/154875571-a997bfc2-456f-40c2-b7e0-aa372cd0306b.png)
 
